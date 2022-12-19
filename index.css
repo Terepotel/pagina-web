@@ -151,9 +151,10 @@ h1{
 .feature__subtitle{
 	font-weight: bold;
 }
-footer{
+.contact{
 	text-align: center;
 	padding: 1.3em 0em;
+
 	background: linear-gradient(135deg, #1ee4c7d3 10%, #00b7ff7b 100%);
 }
 
@@ -193,3 +194,9 @@ footer{
 	border-radius: 23px;
 }
 
+.information{
+	float: left;
+	margin-left: 57px;
+	text-align: center;
+	position: relative;
+}
